@@ -1,3 +1,7 @@
+terraform {
+  required_version = ">=1.9.3"
+}
+
 provider "google" {
   project     = "ee-india-se-data"
 }
