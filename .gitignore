@@ -1,4 +1,3 @@
-/terraform/.terraform.lock.hcl
 /.idea/*
 /terraform/terraform.tfstate
 /terraform/terraform.tfstate.backup
